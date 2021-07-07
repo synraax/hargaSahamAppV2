@@ -1,6 +1,6 @@
 This is the extended version version of hargaSahamApp
 
-THE PROGRAM IS NOW LIVE AT ...
+THE PROGRAM IS NOW LIVE AT https://aplikasihargasaham-app.herokuapp.com
 
 ---
 This program was originally created by Data Professor
