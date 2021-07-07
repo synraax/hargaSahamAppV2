@@ -21,7 +21,7 @@ st.set_page_config(page_title='Stock Price App v2', layout="wide", page_icon='ðŸ
 st.markdown('''
 # Stock Price App
 
-**The Extended Version of [Aplikasi Harga Saham](https://aplikasihargasaham-app.herokuapp.com)**
+**The Extended Version of [Aplikasi Harga Saham](https://github.com/synraax/hargaSahamApp)**
 
 **Credits**
 - App built by [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q) and customized by Paulus Caesario Dito Putra Hartono
